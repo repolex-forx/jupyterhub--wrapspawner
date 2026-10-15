@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "wrapspawner",
+  "versions": [
+    {
+      "commit": "cb74046aa0217cf48c76944fae2d8c0cbae2a701",
+      "tag": "",
+      "parsed_at": "2026-10-15T10:12:47.980827+00:00"
+    }
+  ]
+}
