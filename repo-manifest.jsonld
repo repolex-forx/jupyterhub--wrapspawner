@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/wrapspawner/commit/cb74046aa0217cf48c76944fae2d8c0cbae2a701",
       "git:hexsha": "cb74046aa0217cf48c76944fae2d8c0cbae2a701",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/wrapspawner/commit/7b58a499b528b5a95c5f8d9372fbedb7c352ed5f",
